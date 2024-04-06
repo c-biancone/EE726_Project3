@@ -1,0 +1,1 @@
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QFurther reduction of hysteresis and increase of speed was found to be difficult due to the limits imposed by the use of the 2 device in the gpdk045, which have a minimum length of 180 and finger width of 320 .\\E$"}
